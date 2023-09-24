@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap');
+h1{
+  color: black;
+  font-size: 3em;
+  text-align: center;
+}
+p {
+  color: black;
+  font-size: 1.0em;
+  text-align: center;
+}
+a {
+    color: RGBa(12,71,232,91);
+    font-size: 1.5em;
+    text-align: center;
+}
+n {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 1.5em;
+  background-color: black;
+}
+.images{
+  transform: translate(50%, 10%);
+  width="45%"
+  height="45%"
+}
+body{
+  background-color : white;
+  background-position:50% 0%;
+  background-repeat:no-repeat;
+}
+.center h1{
+  text-align: center;
+  padding: 2.75vh 0;
+  border-bottom: 0.1375vh solid silver;
+  font-size: 4.3vh;
+}
+.liens{
+  font-size: 1.5em;
+}
